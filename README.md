@@ -49,4 +49,5 @@ Then a rigorous procedure is required for the drive-through itself. Pick-up time
 
 In the same way, all persons in the activities maintained must be gloved and masked to avoid bringing contamination back into their families during their activities.
 
+* * *
 For the transport function, it seems desirable to favor individual transport, for example by family taxi, as soon as a member of the family is available to convoy the person concerned by a sustained activity.
