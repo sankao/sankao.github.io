@@ -9,6 +9,7 @@ Indeed there are good reasons to doubt the capacity of the European governments 
 - the French government showed, by maintaining the municipal elections, that it was not aware of the overall risk it posed to the population (we are constantly seeing political figures at risk and a certain number are contaminated).
 
 - at this very moment we hear no information about most of the actions taken, namely about, the diffusion of masks for situations of potential contamination, or how the production of masks will be scaled to the necessary tens of millions per day.
+
 * * *
 In here we will address the most common high-risk situations, and go into the details of the protection procedures, not only in the current situation of national quarantine, but also thereafter.
 
