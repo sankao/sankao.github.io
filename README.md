@@ -25,9 +25,9 @@ But also probably:
 
 
 ## The activities maintained
-### Healthcare
-### Local food supply, but also the supply chain and even food production, since the virus seems here to stay
-### Maintenance of utilities, water, sanitation, electricity, energy, telecommunications, maintenance which may require travel, teamwork and contact with customers.
+- Healthcare
+- Local food supply, but also the supply chain and even food production, since the virus seems here to stay
+- Maintenance of utilities, water, sanitation, electricity, energy, telecommunications, maintenance which may require travel, teamwork and contact with customers
 
 All other activities are in principle interrupted, although this has to be enforced.
 There is also an activity that accompanies all the activities maintained, it is the transport of people.
